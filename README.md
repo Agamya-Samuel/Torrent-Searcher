@@ -12,7 +12,7 @@ Try this: https://github.com/supunpriyashanka/Torrent-Searcher/tree/main
 
 
 ## Also works on glitch.com ;)
-#### Tested bot: [Torrent Searcher](https://t.me/NET_TorrentSerchBot)
+#### Tested bot: [Torrent Searcher](http://t.me/Torrect_SercherBot)
 
 
 # Credits
