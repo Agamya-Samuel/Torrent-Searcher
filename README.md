@@ -7,7 +7,7 @@ Added find command. Now you can add your bot in a group
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/supunpriyashanka/Torrent-Searcher/tree/main)
 
 # Demo Bot
-[Torrent Searcher](http://t.me/NET_TorrentSerchBot)
+[Torrent Searcher](http://t.me/Torrect_SercherBot)
 
 # Proxy ;)
 Base api [proxy site](https://zero.api-zero.workers.dev/)
