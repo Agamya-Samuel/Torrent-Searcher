@@ -13,13 +13,13 @@ print("\nBot Started\n")
 
 @app.on_message(filters.command(['start']))
 async def start(_, message):
-    await message.reply_text("Hi. I'm Torrent Sercher Bot\nSend /help To Show Help Screen\nBot by @NET_HACKER_BOTs_chat")
+    await message.reply_text("Hi. I'm Torrent Sercher Bot 🇱🇰\nSend /help To Show Help Screen\nBot by @NET_HACKER_BOTs_chat 🇱🇰")
 
 
 
 @app.on_message(filters.command(['help']))
 async def help(_, message):
-    await message.reply_text("Example: /find Film Name")
+    await message.reply_text("Example: /find Film Name\n Made By Supun Priyashanka 🇱🇰")
 
 m = None
 i = 0
@@ -41,7 +41,7 @@ async def find(_, message):
         await message.reply_text("Usage: /find query")
         return
     query = message.text.split(None, 1)[1].replace(" ", "%20")
-    m = await message.reply_text("Searching")
+    m = await message.reply_text("Searching 🤫\nPlease Wait 😍")
     try:
         async with aiohttp.ClientSession() as session:
             async with session.get(f"https://api.api-zero.workers.dev/piratebay/{query}") \
