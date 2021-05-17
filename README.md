@@ -1,5 +1,5 @@
 # Dead!!!
-Try this: https://github.com/devillD/Torrent-Searcher/tree/main
+Try this: https://github.com/supunpriyashanka/Torrent-Searcher/tree/main
 
 ## Heroku menual deployment process:
 ##### 1=> Import this repo as private
@@ -12,7 +12,7 @@ Try this: https://github.com/devillD/Torrent-Searcher/tree/main
 
 
 ## Also works on glitch.com ;)
-#### Tested bot: [Torrent Searcher](https://t.me/trntsrcbot)
+#### Tested bot: [Torrent Searcher](https://t.me/NET_TorrentSerchBot)
 
 
 # Credits
